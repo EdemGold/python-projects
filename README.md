@@ -1,6 +1,6 @@
 # Python Projects
 
-The repository was built with a tree-like structure in mind, it contains lots of Python Projects. A lot of the fear people have of Good Projects, this stops people from going into Programming in Python. It's not true!, anyone can learn Python, and we plan to make that happen. This repository is anyone whether you are beginner or intermediate developer.
+The repository was built with a tree-like structure in mind, it contains lots of Python Projects. A lot of the fear people have of Good Projects, this stops people from going into Programming in Python. It's not true!, anyone can learn Python, and we plan to make that happen. This repository is anyone whether you are beginner or intermediate developer. Join It's Discord Server https://discord.gg/dWeV3pjqu2
 
 # Please wait -- This project is under development.
 
