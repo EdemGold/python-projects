@@ -15,6 +15,7 @@ We are very excited to have you with us!
 - Each folder should contain an `README.md` file.
   - The file should contain a brief introduction to project.
   - Any other resource or blog you think is appropriate or explains the meaning of your folder.
+- Please mention It's difficulty level.
 - Codes can be contributed using Jupyter Notebooks and `.py`, `.r` or `.jl` files. But Python and Jupyter Notebooks will be much appreciated because they support a clear explanation of code.
 
 
