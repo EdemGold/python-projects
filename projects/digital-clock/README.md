@@ -4,7 +4,7 @@
 
 This Python program shows real time in Digital format I make this project with just 13 lines of code especially for medium level python programmers.
 
-## Presequisites
+## Prerequisites
 
 - Little bit experience with Python programming language.
 - Very basic terminal commands.
