@@ -22,7 +22,7 @@ Make sure, you already installed **Python 3.8** or above versions. Now run the f
 pip3 install tk
 ```
 
-## Run Code
+## Run Code locally
 
 - Clone this Repository
 
