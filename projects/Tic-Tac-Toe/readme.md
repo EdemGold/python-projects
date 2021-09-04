@@ -52,6 +52,7 @@ Make sure, you already installed **Python 3.8** or above versions. Now run the f
   ```
 
 ### Now, I'm expecting this Output
+
 ![Image](output-final.png)
 
 ## About Author

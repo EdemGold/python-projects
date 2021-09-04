@@ -45,7 +45,7 @@ pip3 install tk
 - Now, go to digital-clock folder
 
   ```bash
-  cd digital-clock
+  cd Digital-Clock
   ```
 
 - Run the following command
