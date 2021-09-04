@@ -30,7 +30,7 @@ We are very excited to have you with us!
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/python-mini-projects.git
+    git clone https://github.com/<your-github-username>/python-projects.git
     ```
 
     **Replace \<your-github-username\>!**
