@@ -15,7 +15,7 @@ Here is a [resource](./python-resources) to get you started with the basics and 
 - [Python Repository](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-repositories)
 - [Python Course/Videos](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-coursesvideos)
 
-Projects
+<!-- Projects
 
 <table width="100%" class="table">
 <tr>
@@ -25,7 +25,7 @@ Projects
 </tr>
 <tr><td>1.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/digital-clock">Digital Clock GUI</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></</td></tr>
 <tr><td>2.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Tic-Tac-Toe">Tic Tac Toe GUI</a></td><td><a href="https://github.com/TanCodes"> Tanmay Barvi</a></td></tr>
-</table>
+</table> -->
 
 # Contribution
 
