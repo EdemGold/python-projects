@@ -11,7 +11,7 @@ We are very excited to have you with us!
 - Pull requests should have a useful title.
 - To add any Project, create a folder in the projects folder with a relevant category.
 - Add the Project with detailed explanations in README.md file.
-- If there are packages to be installed, create a `requirements.txt` file stating out the packages to be installed.
+- If there are packages to be installed, create a `requirements.txt` file stating out the packages to be installed or mention in README.md file.
 - Each folder should contain an `README.md` file.
   - The file should contain a brief introduction to project.
   - Any other resource or blog you think is appropriate or explains the meaning of your folder.
