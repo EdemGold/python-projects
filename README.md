@@ -5,10 +5,10 @@ The repository was built with a tree-like structure in mind, it contains lots of
 Here is a [resource](./python-resources) to get you started with the basics and fundamentals of Python.
 
 # Resources
-- Python Websites
-- Python Books
-- Python Repository
-- Python Course/Videos
+- [Python Websites](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-websites)
+- [Python Books](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-books)
+- [Python Repository](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-repositories)
+- [Python Course/Videos](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-coursesvideos)
 
 Projects
 <table width="100%" class="table">
