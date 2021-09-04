@@ -1,5 +1,7 @@
 # Digital Clock
 
+![IMG](output.png)
+
 ## Overview
 
 This Python program shows real time in Digital format I make this project with just 13 lines of code especially for medium level python programmers.
@@ -59,6 +61,6 @@ pip3 install tk
 
 Hey, I am Gaurav 14 y/o New in Programing from India, I love to contribute to Open-Source in Python and Machine Learning. You can catch me on [Twitter](https://twitter.com/gaurtvin) and [LinkedIn](https://linkedin.com/in/gaurtvin).
 
-Any comments, suggestions or corrections are welcome. This repository is licensed under [MIT](https://opensource.org/licenses/MIT) License.
+Any comments, suggestions or corrections are welcome. Contribution are welcome as This repository is licensed under [MIT](https://opensource.org/licenses/MIT) License.
 
 ## Thank You!
