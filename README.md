@@ -1,4 +1,6 @@
-![Cover Image](./images/cover-image.png)
+<p align="center">
+    <img width="890" height="500" src="./images/cover-image.png"> 
+</p>
 
 # Introduction
 
