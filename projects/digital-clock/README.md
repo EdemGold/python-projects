@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Python program shows real time in Digital format I make this project with just 13 lines of code especially for medium level python programmers.
+This Python program shows real time in Digital format I make this project with just 13 lines of code especially for medium level python programmers. You can modify It's Background and Foreground colour, Fonts any many more..
 
 ## Prerequisites
 
@@ -63,4 +63,4 @@ Hey, I am Gaurav 14 y/o New in Programing from India, I love to contribute to Op
 
 Any comments, suggestions or corrections are welcome. Contribution are welcome as This repository is licensed under [MIT](https://opensource.org/licenses/MIT) License.
 
-## Thank You!
+## Happy Coding!

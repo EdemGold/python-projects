@@ -5,7 +5,7 @@ from tkinter import messagebox
 
 count = 0
 root = Tk()  # root = root or window or any name
-root.geometry("286x300")
+root.geometry("370x305")
 root.title("Tic-Tac-Toe")
 bx1 = "1"
 bx2 = "2"
@@ -17,7 +17,7 @@ bx7 = "7"
 bx8 = "8"
 bx9 = "9"
 
-a = Label(root, text=" X-O Game \n @TanCodes", bg="light blue",
+a = Label(root, text=" Tanmay Barvi\n@TanCodes", bg="light blue",
           justify="center").grid(row=3, column=1, sticky=S)
 b1 = Button(root, text=" ", bg="ivory2", command=lambda: t(1))
 b1.grid(row='0', column="0", ipadx='40', ipady='30')
