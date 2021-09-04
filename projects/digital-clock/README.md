@@ -17,7 +17,7 @@ This Python program shows real time in Digital format I make this project with j
 Make sure, you already installed **Python 3.8** or above versions. Now run the following commands in your Terminal for installing libraries.
 
 ```bash
-pip3 install tkinter
+pip3 install tk
 ```
 
 ## Run Code
