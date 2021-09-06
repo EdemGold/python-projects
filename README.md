@@ -48,7 +48,7 @@ Here are the [resources](./python-resources) to get you started with the basics 
 <tr><td>2.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Tic-Tac-Toe">Tic Tac Toe GUI</a></td><td><a href="https://github.com/TanCodes"> Tanmay Barvi</a></td></tr>
 <tr><td>3.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Simple-Quote-Bot">Simple Quote Bot</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
 <tr><td>4.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Windows-Message-Notifier">Windows Desktop Message Notifier GUI</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
-<tr><td>5.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Tic-Tac-Toe">URL Shortner</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
+<tr><td>5.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Url-Shortner">URL Shortner</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
 </table> 
 
 <br>
