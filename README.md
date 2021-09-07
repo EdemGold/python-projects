@@ -1,4 +1,4 @@
-# Python Projects
+# Python-Projects
 
 ![GitHub](https://img.shields.io/badge/contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
