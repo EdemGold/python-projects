@@ -99,3 +99,5 @@ Be the next to contribute and you'll see yourself in this chart! -->
 # ⚖️ License
 
 This repository is Lincesd under [MIT](https://choosealicense.com/licenses/mit/) License!
+
+### This project is under heavy development, you can also contribute by adding your own project.
