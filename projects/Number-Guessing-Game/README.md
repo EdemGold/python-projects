@@ -9,7 +9,8 @@ It requires no prerequisites, you only need to run the script. If you don't have
 # Library Used
 
 * [Random](https://docs.python.org/3/library/random.html)
-# Step to run the code
+
+# Steps to run the code
 
 Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
 
