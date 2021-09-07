@@ -1,5 +1,7 @@
 # Python Projects
 
+<link rel="shortcut icon" type="image/x-icon" href="./images/icon.png">
+
 ![GitHub](https://img.shields.io/badge/contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
 ![GitHub contributors](https://img.shields.io/github/contributors/gaurtvin/python-project)
