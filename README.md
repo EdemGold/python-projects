@@ -1,7 +1,6 @@
 # Python Projects
 
 <link rel="shortcut icon" type="image/x-icon" href="./images/icon.png">
-<title>Python Projects {Open-Source}</title>
 
 ![GitHub](https://img.shields.io/badge/contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
