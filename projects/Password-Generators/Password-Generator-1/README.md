@@ -10,16 +10,16 @@ It requires no prerequisites, you only need to run the script. If you don't have
 
 Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
 
-`python my_password_generator.py`
+`python main.py`
 
 # Sample use of the script
 
-![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-1/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Password-Generators/Password-Generator-1/screenshot_1.png)
 
-![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-1/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Password-Generators/Password-Generator-1/screenshot_2.png)
 
-![alt text](https://github.com/Mannuel25/py-projects/blob/master/all-python-codes/password-generator/password-generator-1/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Password-Generators/Password-Generator-1/screenshot_3.png)
 
 # Author's name
 
-[Tanimowo Emmanuel](https://github.com/Mannuel25)
+[Emmanuel Tanimowo](https://github.com/Mannuel25)
