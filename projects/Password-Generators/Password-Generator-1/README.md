@@ -6,7 +6,7 @@ This program generates a secure random password. You'll be required to enter the
 
 It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
-# Libraries Used:
+# Libraries Used
 
 * [Secrets](https://docs.python.org/3/library/secrets.html)
 * [String](https://docs.python.org/3/library/string.html)
