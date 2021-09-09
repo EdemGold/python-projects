@@ -24,4 +24,4 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 
 # Author's name
 
-[Tanimowo Emmanuel](https://github.com/Mannuel25)
+[Emmanuel Tanimowo](https://github.com/Mannuel25)
