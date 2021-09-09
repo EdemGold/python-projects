@@ -1,0 +1,1 @@
+This script checks if the given number is palindrome or not.
