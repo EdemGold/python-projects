@@ -52,6 +52,9 @@ Here are the [resources](./python-resources) to get you started with the basics 
 <tr><td>3.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Simple-Quote-Bot">Simple Quote Bot</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
 <tr><td>4.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Windows-Message-Notifier">Windows Desktop Message Notifier GUI</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
 <tr><td>5.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Url-Shortner">URL Shortner</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
+<tr><td>6.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Countdown-Timer">Countdown Timer</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
+<tr><td>7.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Number-Guessing-Game">Number Guessing Game</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
+<tr><td>8.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Generators">Passowrd Generators</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
 </table> 
 
 <br>
