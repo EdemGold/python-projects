@@ -67,7 +67,7 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 <br>
 
- ## Our Contributors
+## Our Contributors
 
 <table style="border:none">
 	<tr>
