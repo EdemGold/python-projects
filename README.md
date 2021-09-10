@@ -1,6 +1,4 @@
-# Python Projects
-
-<link rel="shortcut icon" type="image/x-icon" href="./images/icon.png">
+# Python Projects {Open Source}
 
 ![GitHub](https://img.shields.io/badge/contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
@@ -30,7 +28,7 @@ The repository was built with a tree-like structure in mind, it contains collect
 
 # Resources
 
-Here are the [resources](./python-resources) to get you started with the basics and fundamentals of Python.
+Here are the [resources](./resources) to get you started with the basics and fundamentals of Python.
 
 - [Python Websites](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-websites)
 - [Python Books](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-books)
@@ -63,7 +61,7 @@ Here are the [resources](./python-resources) to get you started with the basics 
 
 Feel free to add more Projects to this repository by either creating an issue or making a Pull Request. Join our [Discord Server](https://discord.gg/dWeV3pjqu2) for latest updates, further discussion about your pull request.
 
-See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README_PROJECT_TEMPLATE.md**](https://github.com/gaurtvin/python-projects/blob/master/README_PROJECT_TEMPLATE.md) before making pull request.
+See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README_PROJECT_TEMPLATE.md**](https://github.com/gaurtvin/python-projects/blob/master/.github/README_PROJECT_TEMPLATE.md) before making pull request.
 
 <br>
 

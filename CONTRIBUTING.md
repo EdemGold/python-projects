@@ -17,6 +17,7 @@ We are very excited to have you with us!
   - Any other resource or blog you think is appropriate or explains the meaning of your folder.
 - Please mention It's difficulty level.
 - Codes can be contributed using Jupyter Notebooks and `.py`, `.r` or `.jl` files. But Python and Jupyter Notebooks will be much appreciated because they support a clear explanation of code.
+- It is very Important that you are uploading project images on your project, please don't use any third party website for hosting Images.
 
 
 ## Steps To Follow
@@ -57,7 +58,7 @@ We are very excited to have you with us!
   [projects directory](https://github.com/gaurtvin/python-projects/tree/master/projects)
   according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
-- Don't forget to add a `README.md` in your folder.
+- Don't forget to add a `README.md` in your folder by follwing README.md Template.
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash

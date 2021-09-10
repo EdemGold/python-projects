@@ -25,5 +25,5 @@ Breaking change (fix or feature that would cause existing functionality to not w
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 - [ ] My code follows the code style of this project.
 - [ ] I follow Code-of-Conduct.
-- [ ] I mention the difficulty level.
+- [ ] My README is according to [Template](README_PROJECT_TEMPLATE.md).
 
