@@ -18,7 +18,7 @@
 
 <br>
 
-# 📌 Introduction
+# Introduction
 
 The repository was built with a tree-like structure in mind, it contains collections of **Python Projects**. Most people are afraid of Good Projects, which keeps them from getting into Python programming. It's not true, anyone can learn Python, and we plan to make it happen. The repository is open to anyone, whether you are a beginner or an expert developer.
 
@@ -28,7 +28,7 @@ The repository was built with a tree-like structure in mind, it contains collect
 
 <br>
 
-# 📚 Resources
+# Resources
 
 Here are the [resources](./python-resources) to get you started with the basics and fundamentals of Python.
 
@@ -39,7 +39,7 @@ Here are the [resources](./python-resources) to get you started with the basics 
 
 <br>
 
-# 🤖 Project List
+# Project List
 
 <table width="100%" class="table">
 <tr>
@@ -59,7 +59,7 @@ Here are the [resources](./python-resources) to get you started with the basics 
 
 <br>
 
-# ✨ Contribution
+# Contribution
 
 Feel free to add more Projects to this repository by either creating an issue or making a Pull Request. Join our [Discord Server](https://discord.gg/dWeV3pjqu2) for latest updates, further discussion about your pull request.
 
@@ -67,7 +67,7 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 <br>
 
- ## 🥳 Our Contributors
+ ## Our Contributors
 
 <table style="border:none">
 	<tr>
@@ -101,7 +101,7 @@ Be the next to contribute and you'll see yourself in this chart!
 
 <br>
 
-# ⚖️ License
+# License
 
 This repository is Lincesd under [MIT](https://choosealicense.com/licenses/mit/) License!
 
