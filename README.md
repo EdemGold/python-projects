@@ -65,7 +65,9 @@ Feel free to add more Projects to this repository by either creating an issue or
 
 See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README_PROJECT_TEMPLATE.md**](https://github.com/gaurtvin/python-projects/blob/master/README_PROJECT_TEMPLATE.md) before making pull request.
 
-<!-- ## 🥳 Our Contributors
+<br>
+
+ ## 🥳 Our Contributors
 
 <table style="border:none">
 	<tr>
@@ -77,7 +79,7 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 	</tr>
 </table>
 
-Be the next to contribute and you'll see yourself in this chart! -->
+Be the next to contribute and you'll see yourself in this chart!
 
 <!-- # 📝 Project Maintainers
 
