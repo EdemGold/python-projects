@@ -12,11 +12,15 @@ This program validates passwords to match specific rules. A valid password is on
 
 It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
-# How to run the script
+# Library Used
+
+* [String](https://docs.python.org/3/library/string.html)
+
+# How to run the code
 
 Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
 
-`python PASSWORD_VALIDATOR.py`
+`python main.py`
 
 # Sample use of the script
 
