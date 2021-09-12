@@ -30,10 +30,10 @@ The repository was built with a tree-like structure in mind, it contains collect
 
 Here are the [resources](./resources) to get you started with the basics and fundamentals of Python.
 
-- [Python Websites](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-websites)
-- [Python Books](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-books)
-- [Python Repository](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-repositories)
-- [Python Course/Videos](https://github.com/gaurtvin/python-projects/tree/master/python-resources#python-coursesvideos)
+- [Python Websites](https://github.com/gaurtvin/python-projects/tree/master/resources#python-websites)
+- [Python Books](https://github.com/gaurtvin/python-projects/tree/master/resources#python-books)
+- [Python Repository](https://github.com/gaurtvin/python-projects/tree/master/resources#python-repositories)
+- [Python Course/Videos](https://github.com/gaurtvin/python-projects/tree/master/resources#python-coursesvideos)
 
 <br>
 
@@ -53,7 +53,7 @@ Here are the [resources](./resources) to get you started with the basics and fun
 <tr><td>6.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Countdown-Timer">Countdown Timer</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
 <tr><td>7.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Number-Guessing-Game">Number Guessing Game</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
 <tr><td>8.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Generators">Passowrd Generators</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
-</table> 
+</table>
 
 <br>
 
