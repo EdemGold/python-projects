@@ -24,7 +24,7 @@ git clone https://github.com/gaurtvin/python-projects.git
 cd python-projects
 ```
 
-- Go to the Projects folder
+- Go to the projects folder
 
 ```
  cd projects
