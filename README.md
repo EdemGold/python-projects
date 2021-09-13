@@ -61,7 +61,7 @@ Here are the [resources](./resources) to get you started with the basics and fun
 
 Feel free to add more Projects to this repository by either creating an issue or making a Pull Request. Join our [Discord Server](https://discord.gg/dWeV3pjqu2) for latest updates, further discussion about your pull request.
 
-See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README_PROJECT_TEMPLATE.md**](https://github.com/gaurtvin/python-projects/blob/master/.github/README_PROJECT_TEMPLATE.md) before making pull request.
+See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README PROJECT TEMPLATE**](https://github.com/gaurtvin/python-projects/blob/master/.github/README_PROJECT_TEMPLATE.md) before making pull request.
 
 <br>
 
