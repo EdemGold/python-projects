@@ -28,7 +28,7 @@ The repository was built with a tree-like structure in mind, it contains collect
 
 # Resources
 
-Here are the [resources](./resources) to get you started with the basics and fundamentals of Python.
+Here are the [resources](./resources) to get you started with the fundamentals of Python.
 
 - [Python Websites](https://github.com/gaurtvin/python-projects/tree/master/resources#python-websites)
 - [Python Books](https://github.com/gaurtvin/python-projects/tree/master/resources#python-books)
@@ -59,22 +59,22 @@ Here are the [resources](./resources) to get you started with the basics and fun
 
 # Contribution
 
-Feel free to add more Projects to this repository by either creating an issue or making a Pull Request. Join our [Discord Server](https://discord.gg/dWeV3pjqu2) for latest updates, further discussion about your pull request.
+Feel free to add more Projects to this repository by either creating an issue or making a Pull Request. Join our [Discord Server](https://discord.gg/dWeV3pjqu2) for the latest updates, further discussion about your pull request.
 
-See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README PROJECT TEMPLATE**](https://github.com/gaurtvin/python-projects/blob/master/.github/README_PROJECT_TEMPLATE.md) before making pull request.
+See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please see [**README PROJECT TEMPLATE**](https://github.com/gaurtvin/python-projects/blob/master/.github/README_PROJECT_TEMPLATE.md) before making a pull request.
 
 <br>
 
 ## Our Contributors
 
 <table style="border:none">
-	<tr>
-		<td>
-			<a href="https://github.com/gaurtvin/python-projects/graphs/contributors">
+    <tr>
+        <td>
+            <a href="https://github.com/gaurtvin/python-projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gaurtvin/python-projects" />
 </a>
-		</td>
-	</tr>
+        </td>
+    </tr>
 </table>
 
 Be the next to contribute and you'll see yourself in this chart!
@@ -101,6 +101,6 @@ Be the next to contribute and you'll see yourself in this chart!
 
 # License
 
-This repository is Lincesd under [MIT](https://choosealicense.com/licenses/mit/) License!
+This repository is under an  [MIT](https://choosealicense.com/licenses/mit/) License.
 
-### This project is under heavy development, you can also contribute by adding your own project.
+### This project is under heavy development, you can also contribute by adding your project.
