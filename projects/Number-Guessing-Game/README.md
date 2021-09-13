@@ -27,7 +27,7 @@ cd python-projects
 - Go to the projects folder
 
 ```
- cd projects
+cd projects
 ```
 
 - Go to the Number-Guessing-Game folder
@@ -37,6 +37,7 @@ cd Digital-Clock
 ```
 
 - Run the following command
+
 ```
 python game.py
 ```
