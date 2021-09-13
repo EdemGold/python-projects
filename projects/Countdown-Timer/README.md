@@ -4,7 +4,7 @@ This program takes in the number of seconds to countdown and displays a message 
 
 # Prerequisites
 
-It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
+It requires no prerequisites, you only need to have a basic knowledge of Python and how to run the code in your terminal. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
 # Library Used
 
@@ -12,26 +12,25 @@ It requires no prerequisites, you only need to run the script. If you don't have
 
 # How to run the code locally
 
-
 - Clone this Repository
 
 ```
 git clone https://github.com/gaurtvin/python-projects.git
 ```
 
-- Go to Project directory
+- Go to the Project directory
 
 ```
 cd python-projects
 ```
 
-- Go to Projects folder
+- Go to the Projects folder
 
 ```
  cd projects
 ```
 
-- Now, go to Countdown-Timer folder
+- Go to the Countdown-Timer folder
 
 ```
 cd Digital-Clock
