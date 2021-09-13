@@ -45,4 +45,4 @@ python main.py
 
 # Author's name
 
-[Emmanuel Tanimowo](https://github.com/Mannuel25)
+[Sulav Maharjan](https://github.com/sulavmhrzn)
