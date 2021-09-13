@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/badge/contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
-![GitHub Repo stars](https://img.shields.io/github/stars/gaurtvin/python-projects)
+![GitHub contributors](https://img.shields.io/github/contributors/gaurtvin/python-projects)
 ![License](https://img.shields.io/github/license/gaurtvin/python-projects)
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=fcfcfc" alt="Star Badge"/>
 
