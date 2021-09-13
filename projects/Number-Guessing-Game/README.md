@@ -33,7 +33,7 @@ cd projects
 - Go to the Number-Guessing-Game folder
 
 ```
-cd Digital-Clock
+cd Number-Guessing-Game
 ```
 
 - Run the following command

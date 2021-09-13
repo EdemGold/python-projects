@@ -33,7 +33,7 @@ cd projects
 - Go to the Palindrome-Number folder
 
 ```
-cd Digital-Clock
+cd Palindrome-Number
 ```
 
 - Run the following command
