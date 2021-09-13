@@ -10,13 +10,39 @@ It requires no prerequisites, you only need to run the script. If you don't have
 
 * [Time](https://docs.python.org/3/library/time.html)
 
-# How to run the script
+# How to run the code locally
 
-Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
 
-`python timer.py`
+- Clone this Repository
 
-# Sample use of the script
+```
+git clone https://github.com/gaurtvin/python-projects.git
+```
+
+- Go to Project directory
+
+```
+cd python-projects
+```
+
+- Go to Projects folder
+
+```
+ cd projects
+```
+
+- Now, go to Countdown-Timer folder
+
+```
+cd Digital-Clock
+```
+
+- Run the following command
+```
+python timer.py
+```
+
+# Sample use of the code
 
 ![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Countdown-Timer/screenshot_1.png)
 
