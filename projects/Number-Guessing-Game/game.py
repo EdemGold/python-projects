@@ -60,7 +60,7 @@ def game():
                     print(f'You\'ve {number_of_trials} trial(s) left')
                     play_game = input('\nGuess again? (yes/no): ').strip().upper()
                 else:
-                    print(F'\nGame over!, you\'ve 0 trial left..try harder next time 😉')
+                    print('\nGame over!, you\'ve 0 trial left..try harder next time 😉')
                     break
             elif user_input > computer_number:
                 number_of_trials -= 1
@@ -69,7 +69,7 @@ def game():
                     print(f'You\'ve {number_of_trials} trial(s) left')
                     play_game = input('\nGuess again? (yes/no): ').strip().upper()
                 else:
-                    print(F'\nGame over!, you\'ve 0 trial left..try harder next time 😉')
+                    print('\nGame over!, you\'ve 0 trial left..try harder next time 😉')
                     break
             elif user_input == computer_number:
                 number_of_trials -= 1
