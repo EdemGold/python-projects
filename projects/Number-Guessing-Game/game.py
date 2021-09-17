@@ -19,10 +19,10 @@ def startGame():
     displayGameplay = display_gameplay()
     # make a list of the possible inputs
     # to start or end the game
-    POSSIBLE_RESPONSES = ['Y','YES','N','NO','EXIT']
+    possible_responses = ['Y','YES','N','NO','EXIT']
     # get user's response
     user_response = input('\nStart game? (yes/no): ').strip().upper()
-    while user_response not in POSSIBLE_RESPONSES:
+    while user_response not in possible_responses:
         print('\nInvalid Input!')
         user_response = input('\nStart game? (yes/no): ').strip().upper()
     else: return user_response
@@ -39,10 +39,10 @@ def game():
     while play_game == 'YES' or play_game == 'Y':
         # make a list that contains all the
         # numbers a user can guess
-        ACCEPTED_NUMBER_PICKS = [str(i) for i in range(1,11)]
+        accepted_number_picks = [str(i) for i in range(1,11)]
         # get user's number
         user_input = input('\nGuess a number between the range of 1-10: ').strip().upper()
-        while user_input not in ACCEPTED_NUMBER_PICKS and user_input != 'EXIT' :
+        while user_input not in accepted_number_picks and user_input != 'EXIT' :
             print('Invalid Input!')
             user_input = input('\nGuess a valid number between the range of 1-10: ').strip().upper()
         if user_input == 'EXIT':
