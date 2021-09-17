@@ -1,45 +1,51 @@
-This is a simple rock paper scissors python script
+# Rock Paper Scissors Game
 
+## This is a simple rock paper scissors game.
 
------------------------------------------------------------------------------------------------------------------------------------------------
-Library Used :
+# Prerequisites
 
-Make sure, you already installed Python 3.8 or above versions. Now run the following commands in your Terminal for installing libraries.
+It requires no prerequisites, you only need to have a basic knowledge of Python and how to run the code in your terminal. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
-•  random 
+# Library Used
 
---------------------------------------------------------------------------------------------------------------------------------------------------
-Step to Run the Code :
+* [Random](https://docs.python.org/3/library/random.html)
 
-1.	Clone this Repository
+# How to run the code locally
 
-    git clone https://github.com/gaurtvin/python-projects.git
+- Clone this Repository
 
-2.	Go to Project directory
+```
+git clone https://github.com/gaurtvin/python-projects.git
+```
 
-     cd python-projects
+- Go to the Project directory
 
-3.	Go to Projects folder
+```
+cd python-projects
+```
 
-     cd projects
+- Go to the projects folder
 
-4.	Now, go to Rock-Paper-Scissors folder
+```
+cd projects
+```
 
-     cd Rock-Paper-Scissors
+- Go to the Rock-Paper-Scissors folder
 
-5.	Run the following command
+```
+cd Rock-Paper-Scissors
+```
 
-     python rockpaperscissor.py
+- Run the following command
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+python main.py
+```
 
-About Author
-I am Sanjuth a 1st year undergrad at Kmit
-my intrest : webdev, Android Dev,Machine Learning
-You can catch me on
-LinkedIn -> https://www.linkedin.com/in/sanjuth-reddy-2a9665205/
-Instagram -> https://www.instagram.com/sanjuthreddy/
+# About The Author
 
-Any comments, suggestions or corrections are welcome. This repository is licensed under MIT License.
+I am Sanjuth a 1st year undergrad at Kmit. My intrests are webdev, Android Dev, and Machine Learning. 
 
-Happy Coding!
+You can catch me on LinkedIn -> https://www.linkedin.com/in/sanjuth-reddy-2a9665205/
+and Instagram -> https://www.instagram.com/sanjuthreddy/
+
