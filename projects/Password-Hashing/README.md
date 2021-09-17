@@ -49,6 +49,8 @@ pip3 install bcrypt
 python main.py
 ```
 
+# Sample use of the code
+
 ![1st](./assets/sample.png)
 
 # Author's name
