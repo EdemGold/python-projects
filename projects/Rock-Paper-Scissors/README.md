@@ -44,8 +44,8 @@ python main.py
 
 # About The Author
 
-I am Sanjuth a 1st year undergrad at Kmit. My intrests are webdev, Android Dev, and Machine Learning. 
+I am Sanjuth a 1st year undergrad at Kmit. My interests are webdev, Android Dev, and Machine Learning. 
 
-You can catch me on LinkedIn -> https://www.linkedin.com/in/sanjuth-reddy-2a9665205/
-and Instagram -> https://www.instagram.com/sanjuthreddy/
+You can catch me on [LinkedIn](https://www.linkedin.com/in/sanjuth-reddy-2a9665205/)
+and [Instagram](https://www.instagram.com/sanjuthreddy/)
 
