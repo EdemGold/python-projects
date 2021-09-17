@@ -10,19 +10,45 @@ This program validates passwords to match specific rules. A valid password is on
 
 # Prerequisites
 
-It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
+There are no prerequisites; all you need is a basic understanding of Python and the ability to run the code in your terminal. If you don't already have Python installed, you can get it from [here](https://www.python.org/downloads/).
 
 # Library Used
 
 * [String](https://docs.python.org/3/library/string.html)
 
-# How to run the code
+# How to run the code locally
 
-Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
+- Clone this Repository
 
-`python main.py`
+```
+git clone https://github.com/gaurtvin/python-projects.git
+```
 
-# Sample use of the script
+- Go to the Project directory
+
+```
+cd python-projects
+```
+
+- Go to the projects folder
+
+```
+cd projects
+```
+
+- Go to the Password-Validator folder
+
+```
+cd Password-Validator
+```
+
+- Run the following command
+
+```
+python main.py
+```
+
+# Sample use of the code
 
 ![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_1.png)
 
