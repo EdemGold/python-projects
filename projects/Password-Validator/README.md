@@ -10,7 +10,7 @@ This program validates passwords to match specific rules. A valid password is on
 
 # Prerequisites
 
-There are no prerequisites; all you need is a basic understanding of Python and the ability to run the code in your terminal. If you don't already have Python installed, you can get it from [here](https://www.python.org/downloads/).
+There are no prerequisites; all you need is a basic understanding of Python and the ability to run the code in your terminal. If you don't already have Python installed, you can get it [here](https://www.python.org/downloads/).
 
 # Library Used
 
